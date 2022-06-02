@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecosystem/static/css/main.1900d4b3.css",
+    "main.js": "/ecosystem/static/js/main.63087426.js",
+    "index.html": "/ecosystem/index.html",
+    "main.1900d4b3.css.map": "/ecosystem/static/css/main.1900d4b3.css.map",
+    "main.63087426.js.map": "/ecosystem/static/js/main.63087426.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1900d4b3.css",
+    "static/js/main.63087426.js"
+  ]
+}
