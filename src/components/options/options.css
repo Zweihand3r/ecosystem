@@ -1,0 +1,79 @@
+.options-root {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.options-ico {
+  width: 24px;
+  height: 24px;
+  margin: 4px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.options-ico img {
+  padding: 4px;
+}
+
+.options-panel {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  padding: 8px;
+  margin: 8px;
+  color: #fff;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, .75);
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info > * {
+  margin: 4px 0;
+}
+
+.info > span {
+  color: #999;
+  margin-top: 8px;
+}
+
+.info > div:last-child {
+  margin-bottom: 12px;
+}
+
+.info > div {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+/* controls.js */
+
+.ctrl {
+  margin: 8px 0;
+}
+
+.checkbox-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 4px 0;
+}
+
+.checkbox-con > input[type=checkbox] {
+  width: 16px;
+  height: 16px;
+}
+
+.checkbox-con > div {
+  color: #fff;
+  margin-left: 8px;
+}

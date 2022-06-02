@@ -1,0 +1,16 @@
+.world {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.world > canvas {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: #000000;
+}
+
+.dim {
+  opacity: 0.75;
+}
